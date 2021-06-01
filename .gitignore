@@ -33,3 +33,5 @@ Archive.zip
 #
 Pods/
 .clang-format
+.build
+.swiftpm

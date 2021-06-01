@@ -1,0 +1,1 @@
+/Users/franco/Source/ischemaview-segment-amplitude/Pod/Classes/SEGAmplitudeIntegration.h
