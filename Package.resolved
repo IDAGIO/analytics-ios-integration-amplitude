@@ -2,7 +2,7 @@
   "object": {
     "pins": [
       {
-        "package": "Amplitude",
+        "package": "Amplitude-iOS",
         "repositoryURL": "https://github.com/amplitude/Amplitude-iOS",
         "state": {
           "branch": null,
@@ -11,7 +11,7 @@
         }
       },
       {
-        "package": "Segment",
+        "package": "analytics-ios",
         "repositoryURL": "https://github.com/segmentio/analytics-ios",
         "state": {
           "branch": null,
